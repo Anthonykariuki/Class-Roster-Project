@@ -1,2 +1,2 @@
 # Class Roster Project
-contributed by Anthony Kariuki
+contributed to by Anthony Kariuki
